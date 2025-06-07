@@ -1,12 +1,12 @@
-/**public class Exmp{
+public class Exmp{
 	public static void main(String[] args){
 	String s1 = "arjun";
 	System.out.println(s1.length());
 	System.out.println("Hello");
 	}
-}**/
+}
 
-public class Exmp{
+/**public class Exmp{
 	public static void main(String[] args){
 		/**int a,b,c;
 		a = Integer.parseInt(args[0]);
@@ -20,4 +20,4 @@ public class Exmp{
 		}
 		System.out.println("Addition = "+sum);
 	}
-}
+}**/
